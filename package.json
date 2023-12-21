@@ -1,5 +1,5 @@
 {
-  "name": "react-cytoscapejs",
+  "name": "@imtf/react-cytoscapejs",
   "version": "2.0.0",
   "description": "React-based network visualization component, using Cytoscape",
   "license": "MIT",
@@ -10,6 +10,7 @@
   "bugs": {
     "url": "https://github.com/plotly/react-cytoscapejs/issues"
   },
+  "type": "module",
   "amdName": "ReactCytoscape",
   "exports": "./dist/react-cytoscape.modern.js",
   "main": "dist/react-cytoscape.cjs.js",
